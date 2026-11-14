@@ -1,0 +1,8 @@
+.venv/
+.day5venv/
+__pycache__/
+*.py[cod]
+config.ini
+screenshots/
+recordings/
+evidence/
